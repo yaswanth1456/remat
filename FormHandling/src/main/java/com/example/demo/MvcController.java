@@ -10,7 +10,7 @@ import com.example.model.User;
 
 @Controller
 public class MvcController {
-
+//dummy chainge
 	@RequestMapping("/")
 	public String home() {
 		System.out.println("Going home...");
